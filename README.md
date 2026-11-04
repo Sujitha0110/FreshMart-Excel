@@ -1,4 +1,5 @@
 # FreshMart Business Performance Analysis
+![Uploading DASHBOARD.png…]()
 
 ## 1. Project Overview
 
