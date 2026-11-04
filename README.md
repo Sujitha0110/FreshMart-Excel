@@ -1,5 +1,6 @@
 # FreshMart Business Performance Analysis
-<img width="1118" height="497" alt="image" src="https://github.com/user-attachments/assets/e6b3a9d9-4974-4c9f-97e2-442d591e97fc" /
+<img width="1118" height="497" alt="DASHBOARD" src="https://github.com/user-attachments/assets/442f8d5c-c58b-4ebc-b83d-c65d349a9e52" />
+
 
 ## 1. Project Overview
 
